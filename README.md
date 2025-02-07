@@ -1,5 +1,4 @@
 👋 Hi, I’m Shivam Bhati
-
 👀 I’m interested in Full Stack Development and building scalable web applications. 
 🌱 I’m currently exploring TypeScript and enhancing my backend architecture skills.
 💞️ I’m looking to collaborate on open-source contributions, and innovative web applications.
