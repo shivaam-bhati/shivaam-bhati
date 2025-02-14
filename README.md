@@ -6,4 +6,4 @@
 📫 How to reach me:
 - Email: bhatishivam70@gmail.com
   
-⚡ Fun fact: I love optimizing code for performance and can spend hours debugging just for that extra 1% efficiency!
+⚡ Fun fact: I try to understand things in a way that just makes sense, so I don’t have to memorize them. Like how E=mc² or (a+b)² just clicks.
